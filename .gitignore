@@ -1,3 +1,6 @@
+# Only the python script under Git control
+notebooks/*.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -127,3 +130,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Ignore Poetry's lock file
+poetry.lock

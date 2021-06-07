@@ -1,0 +1,12 @@
+{
+    "python.pythonPath": "/home/konny/.cache/pypoetry/virtualenvs/python-data-project-template-iQRL-cf6-py3.9/bin/python",
+    "python.testing.pytestArgs": [
+        "tests"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.nosetestsEnabled": false,
+    "python.testing.pytestEnabled": true,
+    "python.analysis.extraPaths": [
+        "./src"
+    ]
+}
