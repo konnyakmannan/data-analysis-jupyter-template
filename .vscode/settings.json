@@ -1,5 +1,4 @@
 {
-    "python.pythonPath": "/home/konny/.cache/pypoetry/virtualenvs/python-data-project-template-iQRL-cf6-py3.9/bin/python",
     "python.testing.pytestArgs": [
         "tests"
     ],
